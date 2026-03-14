@@ -5,6 +5,10 @@ This platform helps PR agencies automatically discover companies, analyze them w
 
 It includes a modern SaaS-level UI/UX, smooth Framer Motion animations, Recharts analytics, and fully working backend APIs.
 
+---
+**Hackathon Team Repository:** [hackindia-team:hackindia-spark-3-south-india-region:code-champions]
+---
+
 ## Technology Stack
 - **Frontend:** React + Vite, TailwindCSS, Framer Motion, Recharts, Axios, React Router v6
 - **Backend:** Node.js, Express, MongoDB (Mongoose)
