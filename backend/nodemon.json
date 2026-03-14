@@ -1,0 +1,4 @@
+{
+  "ignore": ["*.json", "test_leads.csv", "debug_output.json"],
+  "watch": ["server.js", "routes/", "models/", "services/"]
+}
